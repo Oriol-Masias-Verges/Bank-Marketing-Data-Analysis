@@ -1,7 +1,7 @@
 # Bank-Marketing-Analysis
 In the field of **data analytics**, understanding and extracting insights from datasets play a vital role in making **informed decisions** and gaining valuable business intelligence. To sharpen my data analytics skills, I embark on a project centered around the **Bank Marketing Dataset**. This project focuses on analyzing the **Bank Marketing Dataset** using **Python** and **Sqlite3** for a comprehensive data analysis. The analysis will cover various aspects of the Bank Marketing Dataset, including campaign outcomes, customer characteristics, loan status, and more. Each entry in the dataset represents an **individual customer** and their interaction with the bank's marketing campaigns. The **insights** gained from this analysis will help optimize marketing strategies, improve customer targeting, and enhance campaign performance.
 
-## Variables:
+## Variables
 - **age:** Age of the client.
 - **job:** Type of job of the client.
 - **marital:** Marital status of the client.
